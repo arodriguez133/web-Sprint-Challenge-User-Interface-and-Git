@@ -172,6 +172,19 @@ p {
 	padding: 10px 10px;
 }
 
+.topSection {
+	display: flex;
+	justify-content: space-around;
+}
+
+.btn {
+	text-decoration: none;
+	border: 1px solid black;
+	font-size: 20px;
+	border-radius: 5px;
+	background-color: white;
+}
+
 .top-content {
 	display: flex;
 	flex-wrap: wrap;
